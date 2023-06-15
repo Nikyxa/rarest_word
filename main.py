@@ -27,7 +27,7 @@ def find_most_common_word(text):
         ):
             less_common_word = word
 
-    print(less_common_word)
+    return less_common_word
 
 
 find_most_common_word(
